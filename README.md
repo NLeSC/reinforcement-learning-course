@@ -1,2 +1,2 @@
 # reinforcement-learning-course
-Code from excersizes and other documents related to following this course can be stored here.
+Code from exercises and other documents related to following this course can be stored here.
