@@ -23,6 +23,12 @@ Course link: https://www.coursera.org/learn/practical-rl
 Containing interesting notebooks, code, links etc. 
 
 ## Extra material (miscellaneous)
+### Q-learning:
++ Interactive example for q-learning (playing snake): https://italolelis.com/snake
++ Good illustrative (simplest possible) example of q-learning: https://blog.valohai.com/reinforcement-learning-tutorial-part-1-q-learning
++ Brief introduction with some pseudo-code: https://towardsdatascience.com/practical-reinforcement-learning-02-getting-started-with-q-learning-582f63e4acd9
+
+
 #### MDPs (Markov Decision Proccesses)
 + Quick to read, accessible blog post on MDPs: 
 https://towardsdatascience.com/reinforcement-learning-demystified-markov-decision-processes-part-1-bf00dda41690
