@@ -28,6 +28,11 @@ Containing interesting notebooks, code, links etc.
 + Good illustrative (simplest possible) example of q-learning: https://blog.valohai.com/reinforcement-learning-tutorial-part-1-q-learning
 + Brief introduction with some pseudo-code: https://towardsdatascience.com/practical-reinforcement-learning-02-getting-started-with-q-learning-582f63e4acd9
 
+### Q-learning with RBFs (radial basis functions):
++ In the mountain car example. RBFs are used to get features. See also.:   
+https://pdfs.semanticscholar.org/4786/0a6648aca90e48ca9a18432b17d5da6d63fb.pdf or   
+http://alborz-geramifard.com/Files/13FTML-RLTutorial.pdf
+
 
 #### MDPs (Markov Decision Proccesses)
 + Quick to read, accessible blog post on MDPs: 
