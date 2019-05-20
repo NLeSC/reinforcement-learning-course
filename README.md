@@ -48,9 +48,9 @@ http://incompleteideas.net/book/the-book-2nd.html
 (pdf: http://incompleteideas.net/sutton/book/RLbook2018.pdf)
 
 ### Tensorflow
-The course uses Theano or Tensorflow. We"ll stick to tensorflow...  
+The course uses Theano or Tensorflow. We'll stick to tensorflow...  
 An introduction to Tensorflow is not part of the course. To get used to it, see elsewhere:
 + Documentation and tutorial links from Tensorflow itself: https://www.tensorflow.org/
 + Needs some getting used to, because Tensorflow works based on computational graphs (https://adventuresinmachinelearning.com/python-tensorflow-tutorial/).  
-This, however, seems to change! Current versions already allow to avoid the static graphs by using the Eeager API (https://adventuresinmachinelearning.com/tensorflow-eager-tutorial/).  
+This, however, seems to change! Current versions already allow to avoid the static graphs by using the Eager API (https://adventuresinmachinelearning.com/tensorflow-eager-tutorial/).  
 In the upcoming Tensorflow 2.0, the **Eager execution will apparently even become the standard!**
