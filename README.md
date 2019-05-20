@@ -32,7 +32,7 @@ Containing interesting notebooks, code, links etc.
 + Good illustrative (simplest possible) example of q-learning: https://blog.valohai.com/reinforcement-learning-tutorial-part-1-q-learning
 + Brief introduction with some pseudo-code: https://towardsdatascience.com/practical-reinforcement-learning-02-getting-started-with-q-learning-582f63e4acd9
 
-### Q-learning with RBFs (radial basis functions):
+### Q-learning with **RBFs** (radial basis functions):
 + In the mountain car example. RBFs are used to get features. See also.:   
 https://pdfs.semanticscholar.org/4786/0a6648aca90e48ca9a18432b17d5da6d63fb.pdf or   
 http://alborz-geramifard.com/Files/13FTML-RLTutorial.pdf
@@ -47,3 +47,10 @@ A full textbook on reinforcement-learning by Sutton & Barto. Theory/math heavy.
 http://incompleteideas.net/book/the-book-2nd.html   
 (pdf: http://incompleteideas.net/sutton/book/RLbook2018.pdf)
 
+### Tensorflow
+The course uses Theano or Tensorflow. We"ll stick to tensorflow...  
+An introduction to Tensorflow is not part of the course. To get used to it, see elsewhere:
++ Documentation and tutorial links from Tensorflow itself: https://www.tensorflow.org/
++ Needs some getting used to, because Tensorflow works based on computational graphs (https://adventuresinmachinelearning.com/python-tensorflow-tutorial/).  
+Although current versions also allow to avoid the static graphs by using the Eeager API (https://adventuresinmachinelearning.com/tensorflow-eager-tutorial/).  
+In the upcoming Tensorflow 2.0, the **Eager execution will apparently even become the standard!**
