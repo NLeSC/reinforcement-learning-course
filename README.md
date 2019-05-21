@@ -18,13 +18,17 @@ The course contains a brief review section, but only enough to recap.
 The idea is to list further material for a quick introduction to the necessary background knowledge here.
 But also add links to code examples, vidos, articles etc. that might be usefull during the course...
 
-## Extra material (from HSE "Practical RL" course)
+## Extra material from HSE "Practical RL" course
 The "Practical RL" course by HSE and coursera contains quite a lot of interesting links, materials, code, videos etc.
 The level of the course is somewhere between the 1st and 2nd Udemy/lazy-programmer RL course, so it covers a lot of the background in more detail, such as MDPs, Qlearning etc.).  
 Course link: https://www.coursera.org/learn/practical-rl
 
 + Corresponding github repo: https://github.com/yandexdataschool/practical_rl
 Containing interesting notebooks, code, links etc. 
+
+## Extra material (from other RL courses)
++ 'Awesome' list of RL related links: https://github.com/aikorea/awesome-rl/
++ UC Berkeley course CS294-112: http://rail.eecs.berkeley.edu/deeprlcourse/
 
 ## Extra material (miscellaneous)
 ### Q-learning:
@@ -47,7 +51,7 @@ A full textbook on reinforcement-learning by Sutton & Barto. Theory/math heavy.
 http://incompleteideas.net/book/the-book-2nd.html   
 (pdf: http://incompleteideas.net/sutton/book/RLbook2018.pdf)
 
-### Tensorflow
+### Tensorflow:
 The course uses Theano or Tensorflow. We'll stick to tensorflow...  
 An introduction to Tensorflow is not part of the course. To get used to it, see elsewhere:
 + Documentation and tutorial links from Tensorflow itself: https://www.tensorflow.org/
