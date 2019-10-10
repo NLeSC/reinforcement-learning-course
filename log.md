@@ -1,0 +1,2 @@
+## 2019-09-26
+We went through the code we wrote up to now and looked for the video to start with after our long break. We decided not to go into tensorflow right now and try to do with the knowledge (of keras) that we already got when we need networks. We therefore continued with the next subject which is TD-lambda and n-step. We had a look at the code of the lazyprogrammer to get an idea of what we should do for n-step. We made a stub for the code we have to write. See the notebook christiaan/n-step.ipynb . 
