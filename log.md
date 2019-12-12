@@ -1,3 +1,7 @@
+## 2019-11-14
+I think we implemented n-step now but it's hard to learn anything if it never reaches the top. I modified the epsilon random move to increase chances of winning every now and then.
+Another idea to increase chances of learning anything is to change the reward function. For instance the range of the x axis the cart has seen.
+
 ## 2019-10-31
 It runs! We now have a working 0-step or td(0) implementation. We think. It runs and it seems to update the value in the regressor when we take a look at the plots. We only did 5 roll outs yet so it of course didn't receive anything better than -200 yet as a total reward.
 Start with running more roll outs. See if it ever learns something better. After that we should build in support for more than 0 steps, so n-step.
