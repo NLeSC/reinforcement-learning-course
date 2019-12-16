@@ -1,3 +1,7 @@
+## 2019-12-12
+We were mostly busy debugging and trying to figure out why our implementation did now show improved total rewards (not even for long trainings > 2000 iterations). We played with different rewards functions.
+Going back to an older implementation for mountain car and then implement the n-step method seems to give progresses during training, but still needs further evaluations: https://github.com/NLeSC/reinforcement-learning-course/blob/master/exercises/florian/moutain_car/n_step_2nd_try.ipynb
+
 ## 2019-11-14
 I think we implemented n-step now but it's hard to learn anything if it never reaches the top. I modified the epsilon random move to increase chances of winning every now and then.
 Another idea to increase chances of learning anything is to change the reward function. For instance the range of the x axis the cart has seen.
